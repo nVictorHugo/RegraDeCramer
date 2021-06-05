@@ -99,21 +99,6 @@ class Calculo {
         //console.log(`[i1: ${Math.floor(i1)}A], [i2: ${Math.floor(i2)}A], [i3: ${Math.floor(i3)}A]`);
     }
 }
-//const cal1 = new Calculo('11,-5,-6,-5,19,-2,-1,-1,2', '12,0,0');
 
-//const cal2 = new Calculo('3,-2,-1,-4,7,-1,2,-3,1', '12,0,0')
-//console.log('Victor:');
-//const cal3 = new Calculo('111,-107,-4,-2,115,-117,18,-8,-4', '16,0,0'); //1º minha var
+const Calc1 = new Calculo('2,115,-109,-2,-107,111,1,-1,0', '24,0,4'); 
 
-//console.log('Francisco:');
-//const cal4 = new Calculo('21,-17,-4,-18,25,-25,18,-8,-4', '16,0,0'); //1º Francisco var
-
-//const cal6 = new Calculo('111,-107,-4,107,-115,18,4,8,-18', '16,0,0'); //meu
-
-//const cal5 = new Calculo('3,2,-5,-3,-2,15,-1,1,0', '50,0,5'); teste
-
-
-//const QUESTAO1 = new Calculo('111,-107,-4,-107,115,-18,-4,-8,18', '16,0,0'); //Victor
-
-const QUESTAO2 = new Calculo('2,115,-109,-2,-107,111,1,-1,0', '24,0,4'); //Victor
-//const q2h = new Calculo('2,35,-29,-2,-27,31,1,-1,0', '24,0,4'); //Hudson
